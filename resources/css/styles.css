@@ -3,42 +3,34 @@ h1{
   font-size: 50px;
   font-weight: bold;
   color: white;
-  text-align: center;
-
-}
+  text-align: center;}
 
 h2{
     font-family: verdana;
     font-size: 42px;
     font-weight: bold;
     color: white;
-    text-align: center;
-}
-
+    text-align: center;}
 
 a{
-  color: aquamarine;
-}
+  color: aquamarine;}
 
 .link{
-  font-size: 16px;
-}
+  font-size: 16px;}
 
 p {
   text-align: center;
   font-family: verdana;
   font-size: 21px;
   font-weight: normal;
-  color: gray;
-
-}
+  color: gray;}
 
 body{
-  background-color: black;
-
-}
+  background-color: black;}
 
 .image{
-  text-align: center;
+  text-align: center;}
 
+.footer{
+  text-align: right;
 }
